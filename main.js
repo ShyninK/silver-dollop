@@ -80,8 +80,9 @@ for (const number of set) {
 
 const spread = [...data, ...map, ...set];
 
-console.log(spread);*/
+console.log(spread);
 
 import { greet as salam } from "./Bukang-Sembarang-Data.js";
 
-console.log(salam);
+console.log(salam);*/
+
