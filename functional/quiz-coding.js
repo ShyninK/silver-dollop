@@ -24,6 +24,7 @@ const sampleProducts = [
     );
   }
   
+// result
 console.log(`Get Product by category(Electronics) :`, getProductsByCategory(sampleProducts, 'Electronics')); // Should return products with id 1 and 2
 console.log(`Get Product by id(3) :`, findProductById(sampleProducts, 3)); // Should return the product with id 3
 console.log(`Total price :`, calculateTotalPrice(sampleProducts)); // Should return 1830
